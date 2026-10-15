@@ -1,4 +1,4 @@
-# ESILV MarketPulse
+# ESILV MarketPulse - ERK
 
 <p align="center">
   <img
