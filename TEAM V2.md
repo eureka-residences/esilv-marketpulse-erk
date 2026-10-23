@@ -1,4 +1,4 @@
-# MarketPulse Team
+# MarketPulse Team - DEMO
 
 Copy this file to `TEAM.md` in your team repository and complete it before starting collaborative work.
 
